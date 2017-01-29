@@ -1,0 +1,99 @@
+Report after every 10th message:
+**************************************************************
+No of Product: 2
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 41
+Product total sales value: 1230
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 42
+Product total sales value: 840
+--------------------------------------------------------------
+**************************************************************
+Report after every 10th message:
+**************************************************************
+No of Product: 3
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 41
+Product total sales value: 1230
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 84
+Product total sales value: 3360
+--------------------------------------------------------------
+Product name: BANANAS
+Product total sales count: 21
+Product total sales value: 630
+--------------------------------------------------------------
+**************************************************************
+Report after every 10th message:
+**************************************************************
+No of Product: 3
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 41
+Product total sales value: 1230
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 85
+Product total sales value: 3370
+--------------------------------------------------------------
+Product name: BANANAS
+Product total sales count: 84
+Product total sales value: 5040
+--------------------------------------------------------------
+**************************************************************
+Report after every 10th message:
+**************************************************************
+No of Product: 3
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 62
+Product total sales value: 2680
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 105
+Product total sales value: 5670
+--------------------------------------------------------------
+Product name: BANANAS
+Product total sales count: 125
+Product total sales value: 10030
+--------------------------------------------------------------
+**************************************************************
+Report after every 10th message:
+**************************************************************
+No of Product: 3
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 83
+Product total sales value: 4550
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 126
+Product total sales value: 8400
+--------------------------------------------------------------
+Product name: BANANAS
+Product total sales count: 166
+Product total sales value: 13360
+--------------------------------------------------------------
+**************************************************************
+We are stopping the message request now as system reached to maximum threshold limit i.e. 50
+Total Record: 50
+**************************************************************
+No of Product: 3
+--------------------------------------------------------------
+Product name: GRAPES
+Product total sales count: 83
+Product total sales value: 4550
+--------------------------------------------------------------
+Product name: APPLES
+Product total sales count: 126
+Product total sales value: 8400
+--------------------------------------------------------------
+Product name: BANANAS
+Product total sales count: 166
+Product total sales value: 16680
+--------------------------------------------------------------
+**************************************************************
